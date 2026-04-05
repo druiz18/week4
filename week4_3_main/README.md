@@ -37,7 +37,7 @@ Adam y RMSprop convergen significativamente mas rapido y con mayor precision que
 
 ### Google Colab (recomendado)
 
-1. Descarga `notebook_optimizacion.ipynb`.
+1. Descarga `optimizacion_red_neuronal.ipynb`.
 2. Ve a [https://colab.research.google.com](https://colab.research.google.com).
 3. Selecciona **Archivo -> Subir notebook** y carga el archivo.
 4. Ejecuta todas las celdas con **Runtime -> Run all**.
@@ -64,8 +64,8 @@ No se requieren frameworks de deep learning. Todo el proceso (red, backpropagati
 ## Estructura de la carpeta
 
 ```
-week4/
-├── notebook_optimizacion.ipynb   # Notebook principal ejecutable
+week4/week4_3_main
+├── optimizacion_red_neuronal.ipynb   # Notebook principal ejecutable
 └── README.md                     # Este archivo
 ```
 
